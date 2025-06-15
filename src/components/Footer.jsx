@@ -59,7 +59,6 @@ export const Footer = () => {
                   key={link.id}
                   href={link.link}
                   target="_blank"
-                  rel="noreferrer"
                   title={link.alt}
                 >
                   <img src={link.ico} alt={link.alt} width={20} height={20} />
