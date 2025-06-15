@@ -140,7 +140,7 @@ export const pricing = [
   {
     id: "1",
     plan: "Basique",
-    amount: 23,
+    amount: 13,
     featured: true,
     buttonText: "Acheter ce plan",
     features: [
@@ -154,7 +154,7 @@ export const pricing = [
   {
     id: "2",
     plan: "Premium",
-    amount: 59,
+    amount: 39,
     featured: false,
     buttonText: "Acheter ce plan",
     features: [
@@ -190,6 +190,6 @@ export const social = [
     id: "3",
     ico: icoLinkedin,
     alt: "Linkedin",
-    link: "#/",
+    link: "www.linkedin.com/in/ludovic-moyenga",
   },
 ];
