@@ -190,6 +190,6 @@ export const social = [
     id: "3",
     ico: icoLinkedin,
     alt: "Linkedin",
-    link: "www.linkedin.com/in/ludovic-moyenga",
+    link: "https://www.linkedin.com/in/ludovic-moyenga",
   },
 ];
